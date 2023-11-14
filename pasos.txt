@@ -1,0 +1,6 @@
+instalar nodejs
+
+
+
+para vue:
+npm create vite@latest .
